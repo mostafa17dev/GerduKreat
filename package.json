@@ -1,0 +1,15 @@
+{
+  "name": "gerdukreat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass -w styles.scss dest/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mostafa mohamed",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
